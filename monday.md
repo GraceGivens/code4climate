@@ -19,3 +19,9 @@ It is recommended that you try using markdown yourself, too. At least for this p
 
 To get you started, [here's a cheatsheet on Markdown (md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 pressing . will take you to editor.
+print ('Hello World')
+name=input("what is your name? \n")
+print("hi!",name)
+timespan=input("Give me a timespan.")
+noun=input("give me a noun.")
+print("Every",timespan," i wake up and get off my ",noun)
